@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bibintomj
-- 👀 I’m interested in all things iOS
-- 🌱 I’m currently learning SwiftUI followed by Combine Framework.
+- 👋 Hi, @bibintomj here
+- 👀 Apple Fan boy. iOS Developer for 4 years.
+- 🌱 I’m currently trying out the new SwiftUI and Combine Framework for my next project.
 - 📫 You can reach me at bibintomj@gmail.com
 
 <!---
