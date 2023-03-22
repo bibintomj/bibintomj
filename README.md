@@ -1,8 +1,8 @@
 # [Bibin Tom Joseph]: Hi 👋 
 
 - 👋 Hi, @bibintomj here 
-- 🍎 Apple Fan boy. Senior iOS Developer. Exploring Swift for 6+ years.
-- 👨🏻‍💻 I’m currently working with RxSwift and spicing up my LeetCode skills.
+- 🍎 Senior iOS Dev. Exploring Swift for 6+ years.
+- 👨🏻‍💻 I’m currently working on FloorPlan.
 - 📫 Follow me on [GitHub], [Twitter], [LinkedIn], [LeetCode]
 
 [Bibin Tom Joseph]: <https://github.com/bibintomj>
