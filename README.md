@@ -2,7 +2,7 @@
 
 - 👋 Hi, @bibintomj here 
 - 🍎 Senior iOS Dev. Exploring Swift for 6+ years.
-- 👨🏻‍💻 I’m currently working on [FloorPlan].
+- 👨🏻‍💻 I just published [FloorPlan].
 - 📫 Follow me on [GitHub], [Twitter], [LinkedIn], [LeetCode]
 
 [Bibin Tom Joseph]: <https://github.com/bibintomj>
