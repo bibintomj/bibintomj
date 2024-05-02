@@ -1,7 +1,7 @@
 # [Bibin Tom Joseph]: Hi 👋 
 
 - 👋 Hi, @bibintomj here 
-- 🍎 Senior iOS Dev. Exploring Swift for 6+ years.
+- 🍎 Senior iOS Dev. Exploring Swift for 7 years.
 - 👨🏻‍💻 Checkout my new release [FloorPlan].
 - 📫 Follow me on [GitHub], [Twitter], [LinkedIn], [LeetCode]
 
