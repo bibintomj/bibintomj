@@ -2,7 +2,7 @@
 
 - 👋 Hi, @bibintomj here 
 - 🍎 Senior iOS Dev. Exploring Swift for 7 years.
-- 👨🏻‍💻 Checkout my new release [FloorPlan].
+- 👨🏻‍💻 Checkout my new app release [Cue].
 - 📫 Follow me on [GitHub], [Twitter], [LinkedIn], [LeetCode]
 
 [Bibin Tom Joseph]: <https://github.com/bibintomj>
@@ -11,7 +11,7 @@
 [Twitter]: <https://twitter.com/bibintomj>
 [LinkedIn]: <https://www.linkedin.com/in/bibintomj>
 [LeetCode]: <https://leetcode.com/bibintomj>
-[FloorPlan]: <https://github.com/bibintomj/FloorPlan>
+[Cue]: <https://apps.apple.com/ca/app/cue-teleprompter/id6477744231>
 
 <!---
 bibintomj/bibintomj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
