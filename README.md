@@ -1,5 +1,4 @@
-# Hello 👋 
-Checkout my app 👇🏻
+# Checkout my app 👇🏻
 
 [![AppStore](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/18/85/51188522-99b5-54f9-0eb6-bcde5c5fbec4/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/120x120bb.jpg 'Cue Teleprompter')](https://apple.co/4dzOx4k)
 
