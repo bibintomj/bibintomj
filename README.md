@@ -1,8 +1,5 @@
 # [Bibin Tom Joseph]: Hi 👋 
-
-- 👋 Hi, @bibintomj here 
-- 🍎 Senior iOS Dev. Exploring Swift for 7 years.
-- 👨🏻‍💻 Checkout my new app release [Cue].
+- 👨🏻‍💻 Checkout my app [Cue] 👈🏻.
 - 📫 Follow me on [GitHub], [Twitter], [LinkedIn], [LeetCode]
 
 [Bibin Tom Joseph]: <https://github.com/bibintomj>
