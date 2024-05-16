@@ -13,6 +13,7 @@ Click to know more
 
 [![AppStore](/Assets/120x/esso-and-mobil-app120x.png 'Esso Mobil')](https://apple.co/3wsWHKX) &nbsp;&nbsp;&nbsp; [![AppStore](/Assets/120x/exxon-mobil-rewards120x.png 'Exxon Mobil')](https://apple.co/4dx1s72) &nbsp;&nbsp;&nbsp; [![AppStore](/Assets/120x/m4marry-matrimony-app120x.png 'M4Marry')](https://apple.co/4bazGM6) &nbsp;&nbsp;&nbsp; [![AppStore](/Assets/120x/manorama-online-news-videos120x.png 'Manorama Online')](https://apple.co/3wzXZUs) &nbsp;&nbsp;&nbsp; [![AppStore](/Assets/120x/nixithub120x.png 'NixitHub')](https://apple.co/4acNyUK)
 
+<br>
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat about iOS development!
 
 <!---
@@ -26,8 +27,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 <br>
 
 
-
-<br>
+#
 
 📫 Follow me on [GitHub], [X], [LinkedIn], [LeetCode]
 
