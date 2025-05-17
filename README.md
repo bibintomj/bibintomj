@@ -7,7 +7,7 @@
   </kbd>
 </a>
 &nbsp;
-<a href="https://www.bibintomj.com/resume.pdf" target="_blank">
+<a href="Bibin.iOS.Dev.Resume.pdf" target="_blank">
   <kbd>
     <b>View My Resume →</b>
   </kbd>
