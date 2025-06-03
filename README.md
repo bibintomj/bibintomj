@@ -1,5 +1,5 @@
 # Hi 👋🏻, I'm Bibin Tom Joseph
-### Senior iOS Developer | Android Developer | Full Stack Developer (MERN)
+### Senior iOS Developer | Android & Full Stack Developer (MERN)
 
 <a href="https://www.bibintomj.com" target="_blank">
 <kbd>
