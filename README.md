@@ -1,8 +1,21 @@
 # Hi 👋🏻, I'm Bibin Tom Joseph
-### Senior iOS Developer | Android Developer | Full Stack Developer (MERN)
+### Senior iOS Developer | Android & Full Stack Developer (MERN)
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-FF5722?style=flat&logo=globe&logoColor=white)](https://www.bibintomj.com)
+<a href="https://www.bibintomj.com" target="_blank">
+<kbd>
+    <b>View Portfolio →</b>
+  </kbd>
+</a>
 &nbsp;
+<a href="Bibin.iOS.Dev.Resume.pdf" target="_blank">
+  <kbd>
+    <b>View My Resume →</b>
+  </kbd>
+</a>
+
+
+<br><br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bibintomj) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bibintomj) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8193339) 
@@ -11,7 +24,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/bibintomj) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/bibintomj)
 
-<br>
+
 
 ## 💻 Tech Stack
 
